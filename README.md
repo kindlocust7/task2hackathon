@@ -1,6 +1,8 @@
 ## Concordium Hackathon Task 1
 
-##Main CCD: 3JiFDTNs4znYq8gWkQzCxPxQCCb3bUGFuybfqv3ZC8CRpnE66R
+## Main CCD: 
+
+3JiFDTNs4znYq8gWkQzCxPxQCCb3bUGFuybfqv3ZC8CRpnE66R
 
 ## 1. Deployed a smart contract + transaction hash in text format (even if visible in the screenshot)
 
